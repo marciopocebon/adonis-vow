@@ -1,6 +1,8 @@
 
 # Testing In AdonisJs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adonisjs/adonis-vow.svg)](https://greenkeeper.io/)
+
 > This readme is the scribble board for now. The final readme will be written later
 
 Testing in AdonisJs should be natural, simple and intutive enough that even a entry level guy can write tests.
