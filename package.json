@@ -30,7 +30,7 @@
     "japa": "git+https://github.com/thetutlage/japa.git#develop",
     "japa-cli": "^1.0.1",
     "node-res": "^3.0.1",
-    "nyc": "^10.3.2",
+    "nyc": "^11.0.1",
     "standard": "^10.0.2"
   },
   "dependencies": {
